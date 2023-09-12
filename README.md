@@ -1,2 +1,2 @@
-# ChatBot
+# ChatGPT
 TBA
